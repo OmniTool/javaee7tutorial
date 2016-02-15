@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dukes-age/dukes-age.iml" filepath="$PROJECT_DIR$/dukes-age/dukes-age.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstcup/firstcup.iml" filepath="$PROJECT_DIR$/firstcup/firstcup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstcup-parent.iml" filepath="$PROJECT_DIR$/firstcup-parent.iml" />
+    </modules>
+  </component>
+</project>
