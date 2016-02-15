@@ -1,4 +1,4 @@
-# javaee7tutorial
+# javaee7 tutorial
 Use: 
 - IntelliJ IDEA 15.0; 
 - Wildfly 10 application server; 
