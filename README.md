@@ -1,6 +1,6 @@
 # javaee7 tutorial
 Use: 
-- IntelliJ IDEA 15.0; 
+- IntelliJ IDEA 15.0 ultimate; 
 - Wildfly 10 application server; 
 - Oracle Java JDK 8
 (language level is 7); 
